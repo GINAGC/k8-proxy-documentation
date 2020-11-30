@@ -1,5 +1,29 @@
 module.exports = {
 	someSidebar: {
+				"ESXi":
+			[
+				{
+					"Welcome": [					
+						"esxi/Welcome/welcome",
+					],							
+				},
+				{
+					"Technical Arquitecture": [					
+						"esxi/Terchnical-Architecture/technical-architecture",
+					],							
+				},
+				{
+					"OVAs": [					
+						"esxi/OVAs/overview",
+					],							
+				}
+				{
+					"Websites": [					
+						"esxi/Websites/Glasswall solutions/overview",
+						"esxi/Websites/OWASP/overview",
+					],							
+				}
+			],
 		"Dashboards":
 			[
 				{
